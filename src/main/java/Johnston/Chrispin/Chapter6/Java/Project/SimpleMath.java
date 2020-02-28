@@ -9,4 +9,9 @@ public class SimpleMath {
 		System.out.println(results);
 		return results;
 	}
+	public double multiply(double number1, double number2) {
+		double results = number1 * number2;
+		System.out.println(results);
+		return results;
+	}
 }
